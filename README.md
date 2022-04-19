@@ -1,6 +1,6 @@
 # SSAFY_7th_KotlinStudy
 
-## 🌈Contributors 
+## 🌈Contributors
 <table align="center" style="font-weight : bold">
     <tr>
         <td align="center">
@@ -44,7 +44,7 @@
     </tr>
 </table>
 
-## ✏️ Study Plan 
+## ✏️ Study Plan
 <details>
     <summary> 2022년 1월 </summary>
     <div markdown="1">
@@ -502,6 +502,55 @@
                     그리디, 정렬
                 </td>
                 <td align="center">실버 2</td>
+            </tr>
+        </table>
+    </div>
+        <div markdown="1">
+        <h3>11주차(2022-04-13 ~ 2022-04-20)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/9465">
+                        스티커
+                    </a>
+                </td>
+                <td align="center">
+                    다이나믹 프로그래밍
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/2225">
+                        합 분해
+                    </a>
+                </td>
+                <td align="center">
+                    다이나믹 프로그래밍, 수학
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/20922">
+                        겹치는 건 싫어
+                    </a>
+                </td>
+                <td align="center">
+                    투 포인터
+                </td>
+                <td align="center">실버 1</td>
             </tr>
         </table>
     </div>
